@@ -15,3 +15,15 @@ UserSettings/
 *.userprefs
 *.unitypackage
 .vscode/
+
+# Unity extras
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+crashlytics-build.properties
+.DS_Store
